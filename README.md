@@ -1,5 +1,5 @@
 # ✨ Nice to meet you, I'm Luan Aiezza! ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
-🎓 Software Engineer | 👨🏻‍💻 iOS & Mobile Developer | 🎮 Game developer Unity
+🎓 Software Engineer | 👨🏻‍💻 iOS & Mobile Developer | 🎮 Game developer
 
 ## 📌 About me (o´▽`o)	
 I am currently a **Software engineering** student at the Instituto Federal do Amazonas and a **Software analysis and development** student at Universidade Marta Falcão. I am also part of the **Apple Developer Academy** Manaus as an **iOS developer**, winner of the **Swift Student Challenger 2025** and a **Game developer at Unity**. I also graduated in **Graphic Design** from Wyden, where my passion for **games** and **front-end** came from. I hope you like my projects!
