@@ -1,14 +1,14 @@
 # ✨ Nice to meet you, I'm Luan Aiezza! ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 🎓 Software Engineer | 👨🏻‍💻 iOS & Mobile Developer | 🎮 Game developer
 
-## 📌 About me (o´▽`o)	
+## 📌 About me
 I am currently a **Software engineering** student at the Instituto Federal do Amazonas and a **Software analysis and development** student at Universidade Marta Falcão. I am also part of the **Apple Developer Academy** Manaus as an **iOS developer**, winner of the **Swift Student Challenger 2025** and a **Game developer at Unity**. I also graduated in **Graphic Design** from Wyden, where my passion for **games** and **front-end** came from. I hope you like my projects!
 
 🎯 **Interests:** iOS Development, Front-End, Game Development, Unity.  
 
 ---
 
-## 🛠️ Technologies and tools ∑d(°∀°d)
+## 🛠️ Technologies and tools
 
 ### 💻 iOS Developer
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white) ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
@@ -28,7 +28,7 @@ I am currently a **Software engineering** student at the Instituto Federal do Am
 
 ---
 
-## 🌍 My links (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧	
+## 🌍 My links
 
 📬 **E-mail:** [luangabrielsf@email.com](mailto:luangabrielsf@email.com)  
 🔗 **LinkedIn:** [linkedin.com/in/luan-aiezza](https://linkedin.com/in/luan-aiezza)  
