@@ -1,10 +1,10 @@
-# ✨ Nice to meet you, I'm Luan Aiezza! ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
+# Nice to meet you, I'm Luan Aiezza! ✧
 🎓 Software Engineer | 👨🏻‍💻 iOS & Mobile Developer | 🎮 Game developer
 
 ## 📌 About me
 My name is Luan Aiezza, but you can simply call me Aiezza. Academically I am a software engineer, and I have specialized in **iOS development** during my career. On a personal level, **Game development** is my hobby—a passion I use as a medium to showcase my skills as a developer and a space where I can also apply the knowledge I have gained as a graphic designer.
 
-🎯 **Interests:** iOS Development, SwiftUI, Front-End, Game Development, Unity.  
+🎯 **Interests:** iOS Development, SwiftUI, UIKit, Front-End, Game Development, Unity, Godot.  
 
 ---
 
