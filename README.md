@@ -19,8 +19,30 @@ My name is Luan Aiezza, but you can simply call me Aiezza. Academically I am a s
 
 ## 🚀 Projects
 
-- **[PromptLint](https://github.com/Luan-Aiezza/PromptLint)** — A Swift CLI package that cuts AI costs. It analyzes prompts before they are sent to an LLM, flags redundancy and inefficient formatting, estimates token/USD savings per model, and integrates with the Anthropic API for exact token counts and automatic fixes.
+### 🧰 Tools
+- **[PromptLint](https://github.com/Luan-Aiezza/PromptLint)** — A Swift CLI that cuts AI costs: it analyzes prompts before they are sent to an LLM, flags redundancy and inefficient formatting, estimates token and USD savings per model, and integrates with the Anthropic API for exact counts and automatic fixes.
+- **[AiezzaUtils](https://github.com/Luan-Aiezza/AiezzaUtils)** — A modular Swift package with email validation, date and string helpers, safe casting and a SwiftUI async image view.
+
+### 📱 iOS & watchOS
+- **[SixSeven](https://github.com/Luan-Aiezza/SixSeven)** — Shake your phone to farm aura, climb tiers and duel other players over Game Center.
+- **[Coinc](https://github.com/Luan-Aiezza/FinanceApp)** — An app that teaches children to handle money, with tasks, piggy banks and SwiftData.
+- **[Cinema](https://github.com/Luan-Aiezza/Cinema)** — A SwiftUI app that consumes a REST API, with MVVM, async/await and a custom image cache.
+- **[Simbora Manaus](https://github.com/Luan-Aiezza/TurismoManaus)** — A tourism app that encourages Manaus residents to explore their own city.
+- **[EmotionClassifier](https://github.com/Luan-Aiezza/EmotionClassifier)** — A macOS app that classifies the emotion of a text with Core ML and Create ML.
+- **[VirtualPet](https://github.com/Luan-Aiezza/VirtualPet)** — An Apple Watch virtual pet that reacts to your sleep and workouts through HealthKit.
+- **[Sarah's Song](https://github.com/Luan-Aiezza/SarahsSong)** — 🏆 Swift Student Challenge 2025 winner: a haptic keyboard for people with hearing impairments.
+
+### 🥽 Augmented Reality
+- **[ARCooking](https://github.com/Luan-Aiezza/ARCooking)** — An AR experience (Tacacá AR) that teaches how to prepare a traditional dish from the Brazilian Amazon.
+- **[ARCheology](https://github.com/Luan-Aiezza/ARCheology)** — A Unity AR archaeology experience built during the AR/VR track.
+- **[ARChess](https://github.com/Luan-Aiezza/ARChess)** — A board game room in AR, starting with checkers.
+
+### 🎮 Games
 - **Suncrown** — A real-time strategy (RTS) game for iOS built with SpriteKit, UIKit and GameKit. A P2P multiplayer mode is currently in development.
+- **[Eclipsa](https://github.com/Luan-Aiezza/RTSGame)** — A simplified real-time strategy game for iPhone, built with SpriteKit, GameplayKit and Game Center multiplayer.
+- **[Airumã danmaku](https://github.com/Luan-Aiezza/Airuma)** — A bullet hell game inspired by Touhou and South American mythologies, built with Godot and C#.
+- **[CultGame](https://github.com/Luan-Aiezza/CultGame)** — A social deduction game for Apple TV and iPhone: cultists against a heretic.
+- **[NostalgicGame](https://github.com/Luan-Aiezza/NostalgicGame)** — A pixel-art platformer for iOS built with SpriteKit.
 - 🎮 More games on [itch.io](https://luan-aiezza.itch.io/)
 
 ---
