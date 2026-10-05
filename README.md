@@ -2,8 +2,7 @@
 🎓 Software Engineer | 👨🏻‍💻 iOS & Mobile Developer | 🥽 AR & visionOS Developer | 🎮 Game developer
 
 ## 📌 About me
-My name is Luan Aiezza, but you can simply call me Aiezza. Academically I am a software engineer, and I have specialized in **iOS development** during my career. I currently work as an iOS developer at **Instituto de Pesquisas Eldorado**, building high-performance apps for iOS, macOS and **visionOS** with Swift, SwiftUI, UIKit and AppKit, and working with augmented and spatial computing through **ARKit** and **RealityKit**. Alongside the apps, I build Swift command-line tools for **3D content pipelines**, such as photogrammetry with Object Capture and CAD to USDZ conversion with OpenCASCADE and ModelIO. On a personal level, **Game development** is my hobby—a passion I use as a medium to showcase my skills as a developer and a space where I can also apply the knowledge I have gained as a graphic designer.
-
+My name is Luan Aiezza, but you can simply call me Aiezza. Academically I am a software engineer, and I have specialized in **iOS development** during my career. I currently work as an iOS developer at **Instituto de Pesquisas Eldorado**, building high-performance apps for iOS, macOS and **visionOS** with Swift, SwiftUI, UIKit and AppKit, and working with augmented and spatial computing through **ARKit** and **RealityKit**.
 🎯 **Interests:** iOS and macOS Development, SwiftUI, UIKit, visionOS and Spatial Computing, Augmented Reality, 3D pipelines and USDZ, Computer Vision, Core ML, Game Development, Unity, Godot, Swift CLI tooling, AI tooling.
 
 ---
@@ -38,9 +37,8 @@ My name is Luan Aiezza, but you can simply call me Aiezza. Academically I am a s
 - **[ARChess](https://github.com/Luan-Aiezza/ARChess)** — A board game room in AR, starting with checkers.
 
 ### 🎮 Games
-- **Suncrown** — A real-time strategy (RTS) game for iOS built with SpriteKit, UIKit and GameKit. A P2P multiplayer mode is currently in development.
-- **[Eclipsa](https://github.com/Luan-Aiezza/RTSGame)** — A simplified real-time strategy game for iPhone, built with SpriteKit, GameplayKit and Game Center multiplayer.
-- **[Airumã danmaku](https://github.com/Luan-Aiezza/Airuma)** — A bullet hell game inspired by Touhou and South American mythologies, built with Godot and C#.
+- **[Suncrown](https://github.com/Luan-Aiezza/RTSGame)** — A simplified real-time strategy game for iPhone, built with SpriteKit, GameplayKit and Game Center multiplayer.
+- **[Airumã](https://github.com/Luan-Aiezza/Airuma)** — A bullet hell game inspired by Touhou and South American mythologies, built with Godot and C#.
 - **[CultGame](https://github.com/Luan-Aiezza/CultGame)** — A social deduction game for Apple TV and iPhone: cultists against a heretic.
 - **[NostalgicGame](https://github.com/Luan-Aiezza/NostalgicGame)** — A pixel-art platformer for iOS built with SpriteKit.
 - 🎮 More games on [itch.io](https://luan-aiezza.itch.io/)
