@@ -3,6 +3,7 @@
 
 ## 📌 About me
 My name is Luan Aiezza, but you can simply call me Aiezza. Academically I am a software engineer, and I have specialized in **iOS development** during my career. I currently work as an iOS developer at **Instituto de Pesquisas Eldorado**, building high-performance apps for iOS, macOS and **visionOS** with Swift, SwiftUI, UIKit and AppKit, and working with augmented and spatial computing through **ARKit** and **RealityKit**.
+
 🎯 **Interests:** iOS and macOS Development, SwiftUI, UIKit, visionOS and Spatial Computing, Augmented Reality, 3D pipelines and USDZ, Computer Vision, Core ML, Game Development, Unity, Godot, Swift CLI tooling, AI tooling.
 
 ---
