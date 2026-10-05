@@ -1,37 +1,77 @@
 # Nice to meet you, I'm Luan Aiezza! ✧
-🎓 Software Engineer | 👨🏻‍💻 iOS & Mobile Developer | 🎮 Game developer
+🎓 Software Engineer | 👨🏻‍💻 iOS & Mobile Developer | 🥽 AR Developer | 🎮 Game developer
 
 ## 📌 About me
-My name is Luan Aiezza, but you can simply call me Aiezza. Academically I am a software engineer, and I have specialized in **iOS development** during my career. On a personal level, **Game development** is my hobby—a passion I use as a medium to showcase my skills as a developer and a space where I can also apply the knowledge I have gained as a graphic designer.
+My name is Luan Aiezza, but you can simply call me Aiezza. Academically I am a software engineer, and I have specialized in **iOS development** during my career. I currently work as an iOS developer at **Instituto de Pesquisas Eldorado**, building high-performance apps with Swift, SwiftUI, UIKit and AppKit, and exploring augmented reality with **ARKit** and **RealityKit**. On a personal level, **Game development** is my hobby—a passion I use as a medium to showcase my skills as a developer and a space where I can also apply the knowledge I have gained as a graphic designer.
 
-🎯 **Interests:** iOS Development, SwiftUI, UIKit, Front-End, Game Development, Unity, Godot.  
+🎯 **Interests:** iOS Development, SwiftUI, UIKit, Augmented Reality, Computer Vision, Game Development, Unity, Godot, AI tooling.
+
+---
+
+## 🏆 Highlights
+
+- 🥇 **Swift Student Challenge Winner — 2025 & 2026 (Apple)**
+  - 2025: *Sarah's Song*, a music experience for people with hearing impairments using Haptics.
+  - 2026: a culinary AR experience.
+- 📜 **App Development with Swift — Certified User** (Apple, 2025–2030)
+
+---
+
+## 🚀 Projects
+
+- **[PromptLint](https://github.com/Luan-Aiezza/PromptLint)** — A Swift CLI package that cuts AI costs. It analyzes prompts before they are sent to an LLM, flags redundancy and inefficient formatting, estimates token/USD savings per model, and integrates with the Anthropic API for exact token counts and automatic fixes.
+- **Suncrown** — A real-time strategy (RTS) game for iOS built with SpriteKit, UIKit and GameKit. A P2P multiplayer mode is currently in development.
+- 🎮 More games on [itch.io](https://luan-aiezza.itch.io/)
 
 ---
 
 ## 🛠️ Technologies and tools
 
 ### 💻 iOS Developer
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white) ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white) ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white) ![AppKit](https://img.shields.io/badge/AppKit-000000?style=for-the-badge&logo=apple&logoColor=white) ![watchOS](https://img.shields.io/badge/watchOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![visionOS](https://img.shields.io/badge/visionOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+### 🥽 AR & Machine Learning
+![ARKit](https://img.shields.io/badge/ARKit-000000?style=for-the-badge&logo=apple&logoColor=white) ![RealityKit](https://img.shields.io/badge/RealityKit-0A84FF?style=for-the-badge&logo=apple&logoColor=white) ![CoreML](https://img.shields.io/badge/CoreML-34C759?style=for-the-badge&logo=apple&logoColor=white) ![CreateML](https://img.shields.io/badge/CreateML-5856D6?style=for-the-badge&logo=apple&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### 🎮 Game Developer
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SpriteKit](https://img.shields.io/badge/SpriteKit-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SpriteKit](https://img.shields.io/badge/SpriteKit-000000?style=for-the-badge&logo=apple&logoColor=white) ![GameKit](https://img.shields.io/badge/GameKit-FF9500?style=for-the-badge&logo=apple&logoColor=white)
 
 ### 📱 Other
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ☁️ Database and Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![CloudKit](https://img.shields.io/badge/CloudKit-157EFB?style=for-the-badge&logo=icloud&logoColor=white) ![CoreData](https://img.shields.io/badge/CoreData-2566E5?style=for-the-badge&logo=database&logoColor=white)
 
 ### 🛠️ Platforms and other Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
+
+---
+
+## 🎓 Education & Certifications
+
+**Education**
+- B.Sc. in Software Engineering — Instituto Federal do Amazonas (2020–2025)
+- Systems Analysis and Development — Universidade Martha Falcão (2024–2026)
+- Graphic Design — Wyden/Gracom School of Visual Effects (2018–2022)
+
+**Certifications**
+- Computer Vision Track — Instituto de Pesquisas Eldorado (2026)
+- AR/VR Development Track — Instituto de Pesquisas Eldorado (2025)
+- Unity Essentials Pathway — Unity (2025)
+- Data Classification and Summarization using IBM Granite — IBM (2025)
+- Mobile Device Programming — TIC em Trilhas (2024)
+- Python for Data Science; Deep Learning and ML Fundamentals — Samsung (2022)
+
+🗣️ **Languages:** English (B2) · Spanish (A2) · Portuguese (native)
 
 ---
 
 ## 🌍 My links
 
-📬 **E-mail:** [luangabrielsf@email.com](mailto:luangabrielsf@email.com)  
+📬 **E-mail:** [luangabrielsf@gmail.com](mailto:luangabrielsf@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/luan-aiezza](https://linkedin.com/in/luan-aiezza)  
 💻 **GitHub:** [github.com/Luan-Aiezza](https://github.com/Luan-Aiezza)  
+🎮 **itch.io:** [luan-aiezza.itch.io](https://luan-aiezza.itch.io/)
+
 
 
